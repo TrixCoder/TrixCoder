@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trixcoder&label=Profile%20views&color=0e75b6&style=flat" alt="trixcoder" /> </p>
 
-- 🔭 I’m currently working on **a chatbot**
+- 🔭 I’m currently working on **some web development projects**
 
 - 🌱 I’m currently learning **ReactJs**
 
