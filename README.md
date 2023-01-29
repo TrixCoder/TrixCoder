@@ -4,17 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trixcoder&label=Profile%20views&color=0e75b6&style=flat" alt="trixcoder" /> </p>
 
-- 🔭 I’m currently working on **some web development projects**
+- 🔭 I’m currently working on **cool projects**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **AI related projects**
 
-- 🤝 I’m looking for help with **numpy(Python)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/TrixCoder?tab=repositories](https://github.com/TrixCoder?tab=repositories)
-
-- 💬 Ask me about **ReactJS, NodeJs, Python, DiscordJs, C++**
 
 - 📫 How to reach me **utk.bkkg@gmail.com**
 
