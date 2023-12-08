@@ -1,6 +1,4 @@
-<html>
-  <head></head>
-  <body background"gray">
+
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <h3 align="center">A passionate developer who loves to innovate</h3>
 <img aligh="right" width="400" src="https://i.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.webp" />
@@ -39,5 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trixcoder&show_icons=true&locale=en" alt="trixcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trixcoder&" alt="trixcoder" /></p>
-</body>
-</html>
